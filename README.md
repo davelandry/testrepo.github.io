@@ -1,3 +1,3 @@
 # testrepo.github.io
 
-This is my cool test repo.
+This is my super cool test repo.
